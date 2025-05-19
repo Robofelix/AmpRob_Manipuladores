@@ -1,0 +1,1 @@
+# AmpRob_Manipuladores
